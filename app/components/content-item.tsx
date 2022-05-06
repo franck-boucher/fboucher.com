@@ -2,7 +2,7 @@ import { Link } from '@remix-run/react'
 import React from 'react'
 import type { MdxListItem } from '~/types'
 import { Tags } from './tags'
-import { H2, H3, H4, P } from './texts'
+import { H4 } from './texts'
 
 type ContentItemType = MdxListItem & {
   contentDirectory?: string
