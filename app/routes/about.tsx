@@ -81,6 +81,7 @@ export default function About() {
     <div>
       <div className='flex items-center gap-10 pb-16'>
         <img className='h-36 w-36 rounded-full' src={me} alt='Franck Boucher' />
+
         <div>
           <H2 className='mb-1 text-3xl'>Hi, I am Franck 👋</H2>
           <P className='text-xl '>
